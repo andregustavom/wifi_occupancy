@@ -13,5 +13,5 @@ scipy==1.5.2             # via seaborn
 seaborn==0.10.1
 sklearn
 plotly==4.9.0
-os
+os==15.1
 IPython
