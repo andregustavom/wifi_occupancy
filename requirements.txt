@@ -11,7 +11,7 @@ numpy==1.18.5
 pandas==1.0.4
 scipy==1.5.2             # via seaborn
 seaborn==0.10.1
-sklearn==0.23
+sklearn
 plotly==4.9.0
 ipywidgets==7.5.1
 os==16.1
